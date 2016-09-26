@@ -1,0 +1,10 @@
+body{
+  background-color: red;
+}
+
+.green{
+  color: green;
+  font-style: italic;
+    display: inline;
+  font-size: 30px;
+}
