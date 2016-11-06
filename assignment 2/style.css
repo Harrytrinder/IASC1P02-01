@@ -1,0 +1,219 @@
+body{
+  background-color: #5778BE;
+}
+
+.black{
+  color: #627C93;
+}
+.neutral{
+    text-transform: uppercase;
+}
+.blue{
+  color: blue;
+  text-transform: uppercase;
+}
+.brown{
+  color: #5D2703;
+    text-transform: uppercase;
+}
+.green{
+  color: green;
+    text-transform: uppercase;
+}
+.purple{
+  color: purple;
+    text-transform: uppercase;
+}
+.pink{
+  color: pink;
+    text-transform: uppercase;
+}
+.yellow{
+  color: yellow;
+    text-transform: uppercase;
+}
+.red{
+  color: red;
+    text-transform: uppercase;
+}
+.aqua{
+  color: #0783DB;
+    text-transform: uppercase;
+}
+
+
+#wrapper{
+  background-color: #80ACC2;
+  height: 1000px;
+  width: 800px;
+  margin: 0 auto;
+  border: black 5px solid;
+}
+
+#headder{
+  background-color: #405B96;
+  position: relative;
+  width: 800px;
+  height: 100px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform:capitalize;
+  bottom: 22px;
+}
+
+#headder2{
+  background-color: #405B96;
+  position: relative;
+  width: 800px;
+  height: 100px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  bottom: 22px;
+}
+
+.logo{
+  position: fixed;
+  left: 50px;
+  top: 300px
+}
+
+#content{
+  background-color: #675AC2;
+  color: white;
+  position: relative;
+  right: 2px;
+  bottom: 22px;
+  width: 800px;
+  height: 80px;
+  float: left;
+  text-align: center;
+  text-decoration: underline;
+  border: black 2px solid;
+}
+
+#Website{
+  background-color: #354E5B;
+  color: white;
+  position: relative;
+  right: 2px;
+  bottom: 24px;
+  height: 50px;
+  width: 100px;
+  float: left;
+  text-align: center;
+  border: black 2px solid;
+}
+
+#Products{
+  background-color: #354E5B;
+  color: white;
+  position: relative;
+  left: 101px;
+  bottom: 38px;
+  height: 50px;
+  width: 100px;
+  float: left;
+  text-align: center;
+  border: black 2px solid;
+}
+
+#Discover{
+  background-color: #80ACC2;
+  text-decoration: underline;
+  color: white;
+  width: 500px;
+  height: 60px;
+  position: relative;
+  left: 300px;
+  bottom: 90px;
+  border: black 1px solid;
+}
+
+.content{
+  background-color: #80AC92;
+  color: black;
+  width: 500px;
+  height: 450px;
+  position: relative;
+  left: 300px;
+  bottom: 110px;
+  border: black 1px solid;
+}
+
+.TimesNew{
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.cursive {
+    font-family: Georgia1, Georgia, serif;
+}
+.chair{
+  position: absolute;
+  width: 300px;
+  top: 295px;
+
+
+}
+
+.IMG{
+  width: 300px;
+  position: relative;
+  float: left;
+  bottom: 45px
+}
+
+.list{
+  background-color: #1B7B9A;
+  width: 300px;
+  position: relative;
+  border: black 5px solid;
+  padding: 0px 0px 0px 0px;
+  margin: 100px 0px 0px 300px;
+  top: 7px;
+}
+
+
+.ullist{
+  background-color: #1B7B9A;
+  width: 495px;
+  position: relative;
+  bottom: 75px;
+  border: black 5px solid;
+  padding: 0px 0px 0px 0px;
+  margin: 100px 0px 0px 300px;
+}
+
+.IMGsize{
+  position: relative;
+  left: 10px;
+  width: 150px;
+}
+
+.Design{
+  position: relative;
+  bottom: 48px;
+  right: 3px;
+  background-color: #405B96;
+  width: 299px;
+  height: 120px;
+  border: black 2px solid;
+  font-size: 21px;
+  font-style: oblique;
+  color: white;
+}
+
+.dormy{
+  position: relative;
+  bottom: 450px;
+  left: 188px;
+  height: 425px;
+}
+
+.dormylogo{
+  position: relative;
+  height: 145px;
+  bottom: 430px;
+  left: 300px;
+  clear: both;
+}
